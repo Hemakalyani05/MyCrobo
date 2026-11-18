@@ -1,5 +1,7 @@
-
 {
-  "title": "CodeSentinel AI",
-  "description": "An AI-powered code security and quality review agent that detects vulnerabilities, coding gaps, duplicate code, unfinished features, and technical debt, and suggests automated fixes."
+  "language": "python",
+  "install": "python -m pip install -r requirements.txt",
+  "test": "python -m pytest backend/tests",
+  "start": "python app.py",
+  "port": 8000
 }
