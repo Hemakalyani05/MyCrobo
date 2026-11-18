@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+venv/
+ENV/
+env/
+.venv/
+.pytest_cache/
+.coverage
+
+# Databases & local data
+backend/data/*.db
+backend/data/*.sqlite
+backend/data/*.sqlite3
+backend/data/cloned_repos/
+backend/data/snippets/
+data/cloned_repos/
+data/snippets/
+data/*.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.npm
+*.log
+
+# OS & Editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Environment variables
+.env
+.env.*
+!.env.example
