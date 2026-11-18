@@ -1,14 +1,5 @@
 
 {
   "title": "CodeSentinel AI",
-  "description": "An AI-powered code security and quality review agent that detects vulnerabilities, coding gaps, duplicate code, unfinished features, and technical debt while suggesting automated fixes.",
-  "track": "AI triage",
-  "repository": "https://github.com/Hemakalyani05/MyCrobo",
-  "technologies": [
-    "Python",
-    "FastAPI",
-    "React",
-    "Tailwind CSS",
-    "AI"
-  ]
+  "description": "An AI-powered code security and quality review agent that detects vulnerabilities, coding gaps, duplicate code, unfinished features, and technical debt, and suggests automated fixes."
 }
